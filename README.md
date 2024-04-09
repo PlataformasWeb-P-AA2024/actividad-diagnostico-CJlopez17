@@ -10,6 +10,7 @@ Java, Python, Scala, Dart, TypeScript, R
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
+Sirve para enseñarnos la ruta en la que estamos ubicados en ese momento. 
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
