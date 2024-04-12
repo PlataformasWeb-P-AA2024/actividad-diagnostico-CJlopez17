@@ -16,4 +16,4 @@ Sirve para enseñarnos la ruta en la que estamos ubicados en ese momento.
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
 ### 11. Ejemplifique el comando de Linux: mv
-### 12. Ejemplifique el comando de Linux: cat
+### 12. Ejemplifique el comando de Linux: cat.
